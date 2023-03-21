@@ -14,7 +14,7 @@
 <p alignment="center">
  
   
-## My Stacks 🛠️
+### My Stacks 🌳
 ![UIKit](https://img.shields.io/badge/UIKit-ffd02f?style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0e48d0?style=for-the-badge&logo=Swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -22,13 +22,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-## basic use
+### basic use 🍀
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/fastlane-03bfd8?style=for-the-badge&logo=fastlane&logoColor=white) 
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d)   
 
-## Learning 👀
+### Learning 🌱
 ![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed)   
   
   
