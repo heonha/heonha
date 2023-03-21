@@ -9,9 +9,11 @@
 
 [![AppStoreToKoget](downloadToAppstore.svg)](https://apple.co/3SZORzd)
 
-<p alignment="center">
-  
 ---
+
+<p alignment="center">
+ 
+  
 ## My Stacks 🛠️
 ![UIKit](https://img.shields.io/badge/UIKit-ffd02f?style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0e48d0?style=for-the-badge&logo=Swift&logoColor=white)
@@ -28,5 +30,6 @@
 
 ## Learning 👀
 ![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed)   
+  
   
 </p>
