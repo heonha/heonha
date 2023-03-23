@@ -11,6 +11,7 @@
 
 ---
   
+  
 
 <br>
 
@@ -34,37 +35,55 @@
 #### 🍀 활용 가능한 스택
 ---
 
-<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" height="24">
-
-`Subjects` `DisposeBag`
-
-<img src="https://img.shields.io/badge/fastlane-03bfd8?style=for-the-badge&logo=fastlane&logoColor=white" height="24"> 
-
-`build` `match`   
-
-<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d" height="24"> 
-
-`Frame` `Component`   
-
-<img src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" height="24"> 
-
-`EC2` `AMI` `ASG` `ELB` `IAM`   
 
 
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
+<img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white" height="24" style="margin-right: 8px;"> <code>Subjects</code>
+<code>DisposeBag</code>
+</p>
+
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
+<img src="https://img.shields.io/badge/fastlane-03bfd8?style=for-the-badge&logo=fastlane&logoColor=white" height="24" style="margin-right: 8px;"> 
+<code style="margin-right: 8px;">build</code> 
+<code style="margin-right: 8px;">match</code>
+</p>
+
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
+<img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d" height="24" style="margin-right: 8px;"> 
+<code style="margin-right: 8px;">Frame</code>
+<code style="margin-right: 8px;">Component</code> 
+<code style="margin-right: 8px;">Plugin활용</code>
+</p>
+
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
+<img src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" height="24" style="margin-right: 8px;"> 
+<code style="margin-right: 8px;">EC2</code> 
+<code style="margin-right: 8px;">AMI</code> 
+<code style="margin-right: 8px;">ASG</code>
+<code style="margin-right: 8px;">ELB</code>
+<code style="margin-right: 8px;">IAM</code>
+</p>
+
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
 <img src="https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed" height="24"> 
+<code style="margin-left: 8px;">DockerEngine</code>
+</p>
 
-`DockerEngine`
 
 <br>
 
 #### 🌱 배우는 중인 스택
 ---
 
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
 <img src="https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900" height="24"> 
+<code style="margin-left: 8px;">RDS</code>
+<code style="margin-left: 8px;">ElasticCache</code>
+</p>
 
- `RDS` `ElasticCache`   
 
+<p style="text-align: center; display: flex; align-items: left; height: 24px;"> 
 <img src="https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed" height="24"> 
+<code style="margin-left: 8px;">Docker Compose</code>
+</p>
 
-
- `Docker Compose` 
