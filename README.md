@@ -21,7 +21,7 @@
 #### 🍀 활용 가능한 스택
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/fastlane-03bfd8?style=for-the-badge&logo=fastlane&logoColor=white) `build` `match`   
-![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d)`Frame` `Component`   
+<p> ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d)`Frame` `Component`   </p>
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900) `EC2` `AMI` `ASG` `ELB` `IAM`   
 ![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed)`DockerEngine`
 
