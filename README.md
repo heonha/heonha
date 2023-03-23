@@ -26,6 +26,7 @@
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d)   
 
 #### 🌱 배우는 중인 것 
-![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
+![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)   
+`EC2` `AMI` `AutoScaling` `ELB` `IAM`
 ![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed)   
-  
+ `DockerEngine` `Docker Compose`
