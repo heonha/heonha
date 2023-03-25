@@ -1,13 +1,17 @@
 
 # Hi there👋, Good to see you! 
 
+<img src="assets/NameTag.png">
+
+<br>
+
 ## About Me
 - I'm an iOS App Developer.
 - I enjoy using SwiftUI and UIKit Programmatically.
 - I'm learning Design Pattern and CI/CD these days.
 - This 'Koget' I made will save your time!
 
-[![AppStoreToKoget](downloadToAppstore.svg)](https://apple.co/3SZORzd)
+[![AppStoreToKoget](assets/downloadToAppstore.svg)](https://apple.co/3SZORzd)
 
 ---
   
