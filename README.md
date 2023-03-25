@@ -1,7 +1,9 @@
 
 # Hi there👋, Good to see you! 
 
-<img src="assets/NameTag.png">
+<p align=center >
+<img src="assets/NameTag.png" height=150>
+</p>
 
 <br>
 
