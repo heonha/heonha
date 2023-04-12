@@ -22,7 +22,7 @@ This 'Koget' I made will save your time!
 ---
 **블로그 / Blog**   
 
-[![blog](https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.heon.dev)
+[![blog](https://img.shields.io/badge/heon.dev-white?style=for-the-badge&logo=tistory&logoColor=black)](https://blog.heon.dev)
 
 **코젯 다운로드**   
 
