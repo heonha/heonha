@@ -9,25 +9,22 @@
 
 ## About Me
 
-**iOS App 개발자 하헌진 입니다.**   
+iOS App 개발자 하헌진 입니다.   
+SwiftUI과 UIKit + SnapKit를 주로 사용합니다.
 
-I'm an iOS App Developer.
+2023년 1월, 코젯 앱을 출시했습니다!   
+코젯 앱으로 편리하게 잠금화면 위젯을 생성해보세요!   
 
-**주로 SwiftUI를 사용하고 UIKit + SnapKit 또는 Representable 을 즐겨 사용합니다.**   
-
-I enjoy using SwiftUI and UIKit Programmatically.
-
-**현재 Design Pattern과 RestAPI, UnitTest 공부/체화 중입니다.**   
-
-I'm learning Design Pattern, RestAPI and UnitTest these days.
-
-**제가 만든 코젯 앱으로 편리하게 잠금화면위젯을 생성해보세요.**   
-This 'Koget' I made will save your time!
+현재 협업 프로젝트와 개인 토이프로젝트 각 1개씩 진행중 입니다.   
+>>>>>>> 738f72f12b794c1f41a232f1397b455b41e701a9
 
 ---
 **블로그 / Blog**   
 
 [![blog](https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black)](https://www.heon.dev)
+=======
+[![blog](https://img.shields.io/badge/heon.dev-white?style=for-the-badge&logo=tistory&logoColor=black)](https://www.heon.dev)
+>>>>>>> 738f72f12b794c1f41a232f1397b455b41e701a9
 
 **코젯 다운로드**   
 
@@ -37,24 +34,19 @@ This 'Koget' I made will save your time!
   
   <br>
   
-#### 🌳 자주, 잘 사용하는 스택
+=======
+#### 🚀 My Stacks
+>>>>>>> 738f72f12b794c1f41a232f1397b455b41e701a9
 
 ![UIKit](https://img.shields.io/badge/UIKit-ffd02f?style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0e48d0?style=for-the-badge&logo=Swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-
-#### 🍀 활용 가능한 스택
-
-![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
-![Fastlane](https://img.shields.io/badge/fastlane-03bfd8?style=for-the-badge&logo=fastlane&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
 ![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=f24d1d)
+![Slack](https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=611f69)
 
-#### 🌱 배우는 중인 것
-
+#### 🔥 Studying...
+![Combine](https://img.shields.io/badge/Combine-B7178C?style=for-the-badge&logo=Swift&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
-![Docker](https://img.shields.io/badge/docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=0db7ed)
+>>>>>>> 738f72f12b794c1f41a232f1397b455b41e701a9
   
