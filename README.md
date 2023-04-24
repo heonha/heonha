@@ -39,7 +39,7 @@ SwiftUI과 UIKit + SnapKit를 주로 사용합니다.
 ---
 **블로그 / Blog**   
 
-[![blog](https://img.shields.io/badge/heon.dev-white?style=flat&logo=tistory&logoColor=e24c34)](https://www.heon.dev)
+[![blog](https://img.shields.io/badge/heon.dev-white?style=for-the-badge&logo=tistory&logoColor=e24c34)](https://www.heon.dev)
 
 **코젯 다운로드**   
 
