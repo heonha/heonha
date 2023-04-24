@@ -30,7 +30,7 @@ SwiftUI과 UIKit + SnapKit를 주로 사용합니다.
   
   <br>
   
-#### 🚀 자주, 잘 사용하는 스택
+#### 🚀 My Stacks
 
 ![UIKit](https://img.shields.io/badge/UIKit-ffd02f?style=for-the-badge&logo=Swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0e48d0?style=for-the-badge&logo=Swift&logoColor=white)
@@ -40,7 +40,7 @@ SwiftUI과 UIKit + SnapKit를 주로 사용합니다.
 ![Slack](https://img.shields.io/badge/slack-white?style=for-the-badge&logo=slack&logoColor=611f69)
 
 
-#### 🔥 배우는 중인 것
+#### 🔥 Studying...
 ![Combine](https://img.shields.io/badge/Combine-B7178C?style=for-the-badge&logo=Swift&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
   
