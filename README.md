@@ -33,8 +33,9 @@ SwiftUI과 UIKit + SnapKit를 주로 사용합니다.
 
 ####  Studying 🔥
 ![Combine](https://img.shields.io/badge/Combine-e24c34?style=flat&logo=Swift&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-white?style=flat&logo=amazon-aws&logoColor=ff9900)
-  
+![Unit Test](https://img.shields.io/badge/XCTest-03933f?style=flat&logo=Swift&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-f05139?style=flat&logo=Swift&logoColor=white)
+
 
 ---
 **블로그 / Blog**   
