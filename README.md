@@ -1,32 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67"
     alt="Header" style="max-width: 100%;">
 
-#### 앱스토어 출시
 
-<a href="https://github.com/heonha/koget-ios">
-    <img src="assets/koget.png"
-        style="width: 64px; height: 64px; border-radius: 20px; object-fit: cover; padding: 8px;">
-</a>
-
-#### 작업 중
-
-<a href="https://github.com/9in-team/iOS">
-    <img src="assets/nineInteam.png"
-        style="width: 64px; height: 64px; padding: 8px;">
-</a>
-<a href="https://github.com/heonha/swimmers-ios">
-    <img src="assets/swimmers.png"
-        style="width: 64px; height: 64px; padding: 8px;">
-</a>
-
-<br>
+#### 프로젝트
+| Repository | 앱 이름          | 한줄 설명              | 상태 |
+|------|----------------------|---------------------------------------|-----|
+| ![코젯](assets/koget.svg)    |  코젯 | 잠금화면 위젯 메이커   | 출시됨 (v1.2.3) |
+| ![구인팀](assets/nineInteam.svg) | 9in.team    | 프로젝트원 모집 앱 | 개발 중 |
+| ![스위머즈](assets/swimmers.svg)    | Swimmers    |   수영 기록 관리 앱    | 개발 중 |
 
 
 #### My Skills
 
 <img src="https://skillicons.dev/icons?i=swift,bash,aws,firebase,figma" style="max-width: 100%;">
 
-<br>
 
 #### iOS Skills
 
