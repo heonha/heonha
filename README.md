@@ -1,5 +1,5 @@
 
-![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)
+[![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)]()
 
 #### Projects
 | Repo Link | 앱 이름          | 한줄 설명       | Draw       | 상태 |
@@ -12,16 +12,16 @@
 
 #### My Skills
 
-![스킬들](https://skillicons.dev/icons?i=swift,bash,aws,firebase,figma)
+[![스킬들](https://skillicons.dev/icons?i=swift,bash,aws,firebase,figma)](#)
 
 #### iOS Skills
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0f4cd4.svg?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-ffcb2f.svg?style=for-the-badge&logo=swift&logoColor=white)
-![XCTest](https://img.shields.io/badge/XCTest-2a974c.svg?style=for-the-badge&logo=swift&logoColor=white)
-![CoreData](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0f4cd4.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![UIKit](https://img.shields.io/badge/UIKit-ffcb2f.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![XCTest](https://img.shields.io/badge/XCTest-2a974c.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![CoreData](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 #### Learning
-![Combine](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)
+[![Combine](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)]()
 
 
 #### Links
