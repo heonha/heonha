@@ -1,5 +1,5 @@
 
-[![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)]()
+[![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)](#)
 
 #### Projects
 | Repo Link | 앱 이름          | 한줄 설명       | Draw       | 상태 |
@@ -21,7 +21,7 @@
 [![CoreData](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 #### Learning
-[![Combine](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)]()
+[![Combine](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 
 #### Links
