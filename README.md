@@ -12,16 +12,18 @@
 
 <a href="https://github.com/9in-team/iOS">
     <img src="assets/nineInteam.png"
-        style="width: 64px; height: 64px; border-radius: 20px; object-fit: cover; padding: 8px;">
+        style="width: 64px; height: 64px; padding: 8px;">
 </a>
 <a href="https://github.com/heonha/swimmers-ios">
     <img src="assets/swimmers.png"
-        style="width: 64px; height: 64px; border-radius: 20px; object-fit: cover; padding: 8px;">
+        style="width: 64px; height: 64px; padding: 8px;">
 </a>
 
 <br>
 
-<p style="text-align: center; font-weight: bold; font-size: medium;">My Skills</p>
+
+#### My Skills
+
 <img src="https://skillicons.dev/icons?i=swift,bash,aws,firebase,figma" style="max-width: 100%;">
 
 <br>
