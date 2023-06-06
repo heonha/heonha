@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67"
-    alt="Header" style="max-width: 100%;">
-    
+
+![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)
+
 #### 프로젝트
 | Repo Link | 앱 이름          | 한줄 설명       | Draw       | 상태 |
 |------|----------------------|--------------------|-------------------|-----|
