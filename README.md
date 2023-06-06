@@ -21,7 +21,7 @@
 [![CoreData](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 #### Learning
-[![Combine](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
+[![Combine](https://img.shields.io/badge/Combine-ff6c37.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 
 #### Links
