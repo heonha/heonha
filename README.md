@@ -5,8 +5,8 @@
 | Repo Link | 앱 이름          | 한줄 설명       | Draw       | 상태 |
 |------|----------------------|--------------------|-------------------|-----|
 | [![코젯](assets/koget.svg)](https://github.com/heonha/koget-ios)    |  코젯 | 잠금화면 위젯 메이커 | SwiftUI  | 출시됨 (v1.2.3) |
-| [![구인팀](assets/nineInteam.svg)](https://github.com/9in-team/iOS) | 9in.team    | 프로젝트원 모집 앱 | SwiftUI | 개발 중 |
-| [![스위머즈](assets/swimmers.svg)](https://github.com/heonha/swimmers-ios)    | Swimmers    |   수영 기록 관리 앱  | UIKit  | 개발 중 |
+| [![구인팀](assets/nineInteam.svg)](https://github.com/9in-team/iOS) | 9in.team    | 프로젝트원 모집 앱 | SwiftUI | 개발 중 (2022.12~) |
+| [![스위머즈](assets/swimmers.svg)](https://github.com/heonha/swimmers-ios)    | Swimmers    |   수영 기록 관리 앱  | UIKit  | 개발 중 (2023.06~) |
 
 로고를 누르시면 해당 Repository로 이동합니다.
 
