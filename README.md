@@ -10,22 +10,10 @@
 
 로고를 누르시면 해당 Repository로 이동합니다.
 
-#### My Skills
-
-[![스킬들](https://skillicons.dev/icons?i=swift,bash,aws,firebase,figma)](#)
-
-#### iOS Skills
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-0f4cd4.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-[![UIKit](https://img.shields.io/badge/UIKit-ffcb2f.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-[![XCTest](https://img.shields.io/badge/XCTest-2a974c.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-[![CoreData](https://img.shields.io/badge/Coredata-2683c9.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-
-#### Learning
-[![Combine](https://img.shields.io/badge/Combine-ff6c37.svg?style=for-the-badge&logo=swift&logoColor=white)](#)
-
-
 #### Links
 | Title | Banner |      
 |------|----------------------|
+| ** 개발 블로그 ** |  [![heonkit-0723](https://github.com/heonha/heonha/assets/60867281/e669025a-f28e-4d7d-b5d4-011c7f13241f)](https://www.heon.dev/posts)
+|  **Windows 블로그**   |  [![블로그](https://img.shields.io/badge/heon.dev-white?style=for-the-badge&logo=tistory&logoColor=e24c34)](https://blog.heon.dev)
 |  **코젯 다운로드**   |  [![블로그](assets/downloadToAppstore.svg)](https://apps.apple.com/kr/app/%EC%BD%94%EC%A0%AF/id1667453723)
-|  **개발 블로그**   |  [![블로그](https://img.shields.io/badge/heon.dev-white?style=for-the-badge&logo=tistory&logoColor=e24c34)](https://www.heon.dev)
+
