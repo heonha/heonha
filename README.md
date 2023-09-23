@@ -1,5 +1,3 @@
-![image](https://github.com/heonha/heonha/assets/60867281/336b136a-3dff-4853-9936-4bdd9a40f599)![image](https://github.com/heonha/heonha/assets/60867281/25f14b70-1265-4799-a01e-b9acf7320f9c)
-[![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)](#)
 
 ## Projects
 | Repo Link | 앱 이름          | 한줄 설명       | Made by       | 상태 |
