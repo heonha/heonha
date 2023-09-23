@@ -1,4 +1,4 @@
-
+![image](https://github.com/heonha/heonha/assets/60867281/336b136a-3dff-4853-9936-4bdd9a40f599)![image](https://github.com/heonha/heonha/assets/60867281/25f14b70-1265-4799-a01e-b9acf7320f9c)
 [![Title](https://capsule-render.vercel.app/api?type=waving&color=0:f20c08,50:fe9625,100:c052d9&height=250&section=header&text=HeonJin%20Ha&fontColor=FFFFFF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=iOS%20App%20Developer&descAlignY=60&descAlign=67)](#)
 
 ## Projects
@@ -21,11 +21,11 @@
 </tr>
 <tr>
     <td><strong>개발 블로그</strong></td>
-    <td><a href="https://www.heon.dev"><img src="https://github.com/heonha/heonha/assets/60867281/e669025a-f28e-4d7d-b5d4-011c7f13241f" width=150></a></td>
+    <td><a href="https://www.heon.dev"><img src="https://img.shields.io/badge/heon.dev-black?style=for-the-badge&logo=notion&logoColor=white" width=150></a></td>
 </tr>
 <tr>
     <td><strong>코젯 다운로드</strong></td>
-    <td><a href="https://apps.apple.com/kr/app/%EC%BD%94%EC%A0%AF/id1667453723"><img src="https://github.com/heonha/heonha/assets/60867281/290cb8fb-775c-489a-b87b-bf6212785358" width=150></a></td>
+    <td><a href="https://apps.apple.com/kr/app/%EC%BD%94%EC%A0%AF/id1667453723"><img src="https://website.heon.dev/images/downloadToAppStoreKr.svg" width=150></a></td>
 </tr>
 <tr>
     <td><strong>Windows 블로그</strong></td>
