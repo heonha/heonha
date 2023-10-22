@@ -52,7 +52,7 @@ enum SubStack {
       <td>코젯</td>
       <td>잠금화면 위젯 메이커</td>
       <td>SwiftUI</td>
-      <td>📦 출시 `v1.2.6`</td>
+      <td>📦 출시 `v1.2.8`</td>
     </tr>
   </tbody>
 </table>
