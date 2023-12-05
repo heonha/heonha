@@ -74,7 +74,7 @@ enum SubStack {
 </tr>
 <tr>
     <td><strong>코젯 다운로드</strong></td>
-    <td><a href="https://apps.apple.com/kr/app/%EC%BD%94%EC%A0%AF/id1667453723"><img src="https://website.heon.dev/images/downloadToAppStoreKr.svg" width=150></a></td>
+    <td><a href="https://apps.apple.com/kr/app/%EC%BD%94%EC%A0%AF/id1667453723"><img src="https://github.com/heonha/heonha/assets/60867281/c3f72221-d1c5-43c5-8b26-ef678a74105b" width=150></a></td>
 </tr>
 <tr>
     <td><strong>Windows 블로그</strong></td>
