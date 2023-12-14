@@ -7,19 +7,6 @@
 MVVM 아키텍처 및 UIKit, SwiftUI를 주 사용하여 개발하고 있습니다.
 
 
-```swift
-enum SwiftStack {
-    case swift, combine, swiftUI, uiKit(with: Library.snapkit)
-}
-
-enum SubStack {
-    case python, linux, firebase
-}
-```
-
-
-
-
 ## Projects
 
 <table>
