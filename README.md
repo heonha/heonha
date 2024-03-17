@@ -39,7 +39,7 @@ MVVM 아키텍처 및 UIKit, SwiftUI를 주 사용하여 개발하고 있습니�
       <td>코젯</td>
       <td>잠금화면 위젯 메이커</td>
       <td>SwiftUI</td>
-      <td>📦 출시 `v1.2.8`</td>
+      <td>📦 출시 `v1.2.11`</td>
     </tr>
   </tbody>
 </table>
