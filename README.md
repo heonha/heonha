@@ -24,7 +24,7 @@ MVVM 아키텍처 및 UIKit, SwiftUI를 주 사용하여 개발하고 있습니�
       <td><a href="https://github.com/heonha/everyswim-ios"><img src="assets/everyswim.png" alt="everyswim" width=64></a></td>
       <td>에브리스윔</td>
       <td>수영 기록 관리 앱</td>
-      <td>UIKit</td>
+      <td>UIKit + SwiftUI</td>
       <td>🛠️ 개발 중 `2023.06~`</td>
     </tr>
     <tr>
